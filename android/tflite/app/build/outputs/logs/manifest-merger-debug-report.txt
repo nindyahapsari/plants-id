@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+MERGED from [com.android.support:design:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/32eafa184e1aba9e1f57ce7c85ddbfc8/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/e0759bc68ca837584a264757e77bf1f7/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1a46ac940b141a13f973b36925427342/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/f203520ff2725e327095b69b502b8f18/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/657c3e11a9d2f9b873b9bbd82d02abf8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/71bb0b08a42a3469cc7a0ce3707f7710/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/49170de6794129084f4628d3ef856075/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/79afe3bf56d43c34650de6c0e5a80aad/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a3281b6d079093016f487f7f3e6dbc45/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/2caee49c20d3bb953dfdd575b0b4c2d9/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/7a3ff1b585920f3a0361938e97d3ce62/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/759db26a8bd9b37aa446f7e641cafff9/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/bcfdec471c438f329f35b427cde94308/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3d7d96499b21615391afaf14fb13a493/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/456d2ff8a1e818dc9c9c7e4bb6c2eb26/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+	package
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:19:5-41
+		INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:18:1-42:12
+		INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+uses-sdk
+ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+MERGED from [com.android.support:design:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/32eafa184e1aba9e1f57ce7c85ddbfc8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/32eafa184e1aba9e1f57ce7c85ddbfc8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/e0759bc68ca837584a264757e77bf1f7/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/e0759bc68ca837584a264757e77bf1f7/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1a46ac940b141a13f973b36925427342/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1a46ac940b141a13f973b36925427342/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/f203520ff2725e327095b69b502b8f18/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/f203520ff2725e327095b69b502b8f18/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/657c3e11a9d2f9b873b9bbd82d02abf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/657c3e11a9d2f9b873b9bbd82d02abf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/71bb0b08a42a3469cc7a0ce3707f7710/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/71bb0b08a42a3469cc7a0ce3707f7710/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/49170de6794129084f4628d3ef856075/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/49170de6794129084f4628d3ef856075/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/79afe3bf56d43c34650de6c0e5a80aad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/79afe3bf56d43c34650de6c0e5a80aad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a3281b6d079093016f487f7f3e6dbc45/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a3281b6d079093016f487f7f3e6dbc45/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/2caee49c20d3bb953dfdd575b0b4c2d9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/2caee49c20d3bb953dfdd575b0b4c2d9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/7a3ff1b585920f3a0361938e97d3ce62/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/7a3ff1b585920f3a0361938e97d3ce62/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/759db26a8bd9b37aa446f7e641cafff9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/759db26a8bd9b37aa446f7e641cafff9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/bcfdec471c438f329f35b427cde94308/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/bcfdec471c438f329f35b427cde94308/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3d7d96499b21615391afaf14fb13a493/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3d7d96499b21615391afaf14fb13a493/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/456d2ff8a1e818dc9c9c7e4bb6c2eb26/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/456d2ff8a1e818dc9c9c7e4bb6c2eb26/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/32eafa184e1aba9e1f57ce7c85ddbfc8/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:26:5-44
+		INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:26:15-41
+		INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:28:5-40:19
+MERGED from [com.android.support:design:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/32eafa184e1aba9e1f57ce7c85ddbfc8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/32eafa184e1aba9e1f57ce7c85ddbfc8/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/e0759bc68ca837584a264757e77bf1f7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/e0759bc68ca837584a264757e77bf1f7/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1a46ac940b141a13f973b36925427342/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/1a46ac940b141a13f973b36925427342/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/f203520ff2725e327095b69b502b8f18/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/f203520ff2725e327095b69b502b8f18/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/657c3e11a9d2f9b873b9bbd82d02abf8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/657c3e11a9d2f9b873b9bbd82d02abf8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/71bb0b08a42a3469cc7a0ce3707f7710/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/71bb0b08a42a3469cc7a0ce3707f7710/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/79afe3bf56d43c34650de6c0e5a80aad/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/79afe3bf56d43c34650de6c0e5a80aad/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a3281b6d079093016f487f7f3e6dbc45/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a3281b6d079093016f487f7f3e6dbc45/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/2caee49c20d3bb953dfdd575b0b4c2d9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/2caee49c20d3bb953dfdd575b0b4c2d9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/7a3ff1b585920f3a0361938e97d3ce62/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/7a3ff1b585920f3a0361938e97d3ce62/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/759db26a8bd9b37aa446f7e641cafff9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/759db26a8bd9b37aa446f7e641cafff9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/bcfdec471c438f329f35b427cde94308/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/bcfdec471c438f329f35b427cde94308/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3d7d96499b21615391afaf14fb13a493/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/3d7d96499b21615391afaf14fb13a493/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/456d2ff8a1e818dc9c9c7e4bb6c2eb26/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.12.0] /Users/nindyahapsari/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.12.0.aar/456d2ff8a1e818dc9c9c7e4bb6c2eb26/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:31:9-45
+activity#com.nindyahapsari.plantsid.CameraActivity
+ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:33:19-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/src/main/AndroidManifest.xml:37:27-74

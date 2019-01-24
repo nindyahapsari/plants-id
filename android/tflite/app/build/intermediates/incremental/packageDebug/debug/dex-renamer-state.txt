@@ -1,0 +1,19 @@
+#Fri Jan 18 15:46:45 CET 2019
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/53
+base.4=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/55
+base.3=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/52
+base.2=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/54
+base.1=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/50
+base.0=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/51
+file.5=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/53/classes.dex
+file.4=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/55/classes.dex
+file.3=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/52/classes.dex
+file.2=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/54/classes.dex
+file.1=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/50/classes.dex
+file.0=/Users/nindyahapsari/Desktop/Machine Learning/mobileApp_plant_classifier/android/tflite/app/build/intermediates/transforms/dexMerger/debug/51/classes.dex
