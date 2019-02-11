@@ -80,11 +80,6 @@ wild leek (Deutsch : Nordamerikanischer Ramp-Lauch )
 
 
 
-# Note
-
-The code is used for android app are from google
-
-
 
 
 # Overview
